@@ -1,4 +1,4 @@
-### Using Canivete with [Webpack](https://webpack.js.org/)
+# Using Canivete with [Webpack](https://webpack.js.org/)
 
 In your project root folder, install Canivete via NPM.
 
