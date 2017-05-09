@@ -20,7 +20,7 @@ $ npm install --save leofavre/canivete
 $ npm install --save-dev webpack
 ```
 
-4. Create a file named "webpack.config.js" in your project's root folder with the following content:
+4. Create a file named "webpack.config.js" in your project's root folder with the following contents:
 
 ```js
 const path = require("path");
