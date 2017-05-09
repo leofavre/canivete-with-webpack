@@ -1,5 +1,11 @@
 # Using Canivete with [Webpack](https://webpack.js.org/)
 
+**[Canivete on Github](https://github.com/leofavre/canivete/)**
+
+**[Documentation](https://leofavre.github.io/canivete/)**
+
+---
+
 In your project root folder, install Canivete via NPM.
 
 ```shell
@@ -26,7 +32,7 @@ module.exports = {
 };
 ```
 
-Create a file named "index.js". Import any dependencies from Canivete (or other libraries) using ES6 modules syntax before the rest of your code, like this:
+Create a file named "index.js". Import any dependencies from Canivete (or other libraries) using ES6 module syntax before the rest of your code, like this:
 
 ```js
 import toAverage from "canivete/dist/toAverage";
