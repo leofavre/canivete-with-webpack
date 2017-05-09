@@ -24,11 +24,11 @@ Create a file named "webpack.config.js" with the following content:
 const path = require("path");
 
 module.exports = {
-	entry: "./index.js",
-	output: {
-		path: path.resolve(__dirname, "dist"),
-		filename: "app.js"
-	}
+    entry: "./index.js",
+    output: {
+        path: path.resolve(__dirname, "dist"),
+        filename: "app.js"
+    }
 };
 ```
 
