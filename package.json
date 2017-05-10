@@ -1,7 +1,7 @@
 {
   "name": "canivete-with-webpack",
   "version": "0.0.1",
-  "description": "Example of Canivete use with Webpack.",
+  "description": "Using Canivete with Webpack.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leofavre/canivete-with-webpack.git"
